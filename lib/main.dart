@@ -31,7 +31,8 @@ class _MyAppState extends State<MyApp> {
 //      'What\'s your favorie color ?',
 //      'What\'s your favorte animal'
 //    ];
-  a
+
+  //a
 
     var questions = [
       {
